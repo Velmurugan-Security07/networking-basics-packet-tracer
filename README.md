@@ -315,7 +315,7 @@ These labs gave me practical experience with the core building blocks of a netwo
 ## 👤 Author
 
 **Vel Murugan**
-🔗 LinkedIn: [Velmurugan Anand](www.linkedin.com/in/velmurugan-anand)
+🔗 LinkedIn: [Velmurugan Anand](https://www.linkedin.com/in/velmurugan-anand)
 📧 Email: velmurugananand673@gmail.com
 
 > *If you find this project helpful, please give it a ⭐*
